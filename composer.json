@@ -1,0 +1,15 @@
+{
+    "name": "serge/config",
+    "autoload": {
+        "psr-4": {
+            "Serge\\Config\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Davut Sergeev",
+            "email": "sergeevdavut@mail.ru"
+        }
+    ],
+    "require": {}
+}
