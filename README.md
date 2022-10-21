@@ -6,5 +6,4 @@
     return [
         "param 1" => "value1", 
         "param 2" => "value2", 
-    ]
-```
+    ]```
